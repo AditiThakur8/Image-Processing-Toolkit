@@ -1,4 +1,4 @@
-# **Image Processing Toolkit 🖼️**  
+# **Image Processing Toolkit **  
 
 ### A collection of image processing scripts using **OpenCV** for various transformations and operations.
 
