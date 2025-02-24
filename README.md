@@ -36,7 +36,7 @@ Before running the scripts, install the required dependencies:
 pip install opencv-python numpy matplotlib
 
 ```
-
+---
 
 # 🚀 How to Use  
 
