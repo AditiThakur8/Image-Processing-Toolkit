@@ -1,6 +1,6 @@
 # **Image Processing Toolkit**   
 
-#### A collection of image processing scripts using **OpenCV** for various transformations and operations.
+### A collection of image processing scripts using **OpenCV** for various transformations and operations.
 
 ##  Overview 
 This repository contains **Python scripts** that perform different image processing tasks such as blurring, contouring, cropping, dilation, edge detection, grayscale conversion, histogram equalization, and more. The scripts utilize **OpenCV** to modify and analyze images efficiently.
