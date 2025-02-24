@@ -13,7 +13,8 @@ This repository contains **Python scripts** that perform different image process
    This script performs histogram equalization to enhance contrast.  
 
    **OUTPUT :** -->  
-   ![Histogram Equalization Output](./output_hist_eq.png)
+   ![image](https://github.com/user-attachments/assets/3a8c0398-bb5a-4c47-93c1-be646e80b6bd)
+
 
 2. [`img_HSV.py`](./img_HSV.py)  
 
