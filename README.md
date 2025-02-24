@@ -116,7 +116,7 @@ This script performs template matching for object detection in images.
 
 ---
 
-## **⚙️ Installation & Dependencies**  
+##  Installation & Dependencies  
 Before running the scripts, install the required dependencies:  
 
 ```sh
@@ -139,7 +139,7 @@ Example: Running the blurring script
 python img_blur.py
 ```
 ---
-## 🛠 Features  
+##  Features  
 
 -  **Image Filtering** (Blur, Dilation, Edge Detection, Histogram Equalization)  
 -  **Color Space Conversion** (Grayscale, HSV)  
