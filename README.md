@@ -35,7 +35,8 @@ Before running the scripts, install the required dependencies:
 ```sh
 pip install opencv-python numpy matplotlib
 
----
+```
+
 
 # 🚀 How to Use  
 
