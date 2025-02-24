@@ -35,5 +35,13 @@ Before running the scripts, install the required dependencies:
 ```sh
 pip install opencv-python numpy matplotlib
 
+---
+
+# 🚀 How to Use  
+
+## Clone the Repository  
+```sh
+git clone https://github.com/your-username/Image-Processing-Toolkit.git
+cd Image-Processing-Toolkit
 
 
