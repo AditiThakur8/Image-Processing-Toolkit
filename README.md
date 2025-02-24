@@ -45,4 +45,11 @@ pip install opencv-python numpy matplotlib
 git clone https://github.com/your-username/Image-Processing-Toolkit.git
 cd Image-Processing-Toolkit
 
+```
+## Run Any Script  
+Example: Running the blurring script  
+```sh
+python img_blur.py
+```
+
 
