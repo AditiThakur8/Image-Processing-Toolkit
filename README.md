@@ -1,8 +1,8 @@
-# **Image Processing Toolkit **  
+# Image Processing Toolkit   
 
 ### A collection of image processing scripts using **OpenCV** for various transformations and operations.
 
-## **📌 Overview**  
+##  Overview 
 This repository contains **Python scripts** that perform different image processing tasks such as blurring, contouring, cropping, dilation, edge detection, grayscale conversion, histogram equalization, and more. The scripts utilize **OpenCV** to modify and analyze images efficiently.
 
 ---
@@ -125,7 +125,7 @@ pip install opencv-python numpy matplotlib
 ```
 ---
 
-# 🚀 How to Use  
+#  How to Use  
 
 ## Clone the Repository  
 ```sh
@@ -141,28 +141,28 @@ python img_blur.py
 ---
 ## 🛠 Features  
 
-- ✅ **Image Filtering** (Blur, Dilation, Edge Detection, Histogram Equalization)  
-- ✅ **Color Space Conversion** (Grayscale, HSV)  
-- ✅ **Image Manipulation** (Cropping, Resizing, Rotating)  
-- ✅ **Contour Detection & Morphological Transformations**  
-- ✅ **Template Matching for Object Detection**  
+-  **Image Filtering** (Blur, Dilation, Edge Detection, Histogram Equalization)  
+-  **Color Space Conversion** (Grayscale, HSV)  
+-  **Image Manipulation** (Cropping, Resizing, Rotating)  
+-  **Contour Detection & Morphological Transformations**  
+-  **Template Matching for Object Detection**  
 
 ---
 
-## 📜 License  
+##  License  
 
 This project is licensed under the **MIT License**. Feel free to use and modify it!  
 
 ---
 
-## 🌟 Contributing  
+##  Contributing  
 
 Contributions are welcome! If you have improvements, feel free to:  
 
 1. **Fork the repository**  
 2. **Create a new branch** (`feature-branch`)  
 3. **Commit your changes**  
-4. **Submit a pull request** 🚀  
+4. **Submit a pull request**   
 
 
 
