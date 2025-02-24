@@ -9,7 +9,7 @@ This repository contains **Python scripts** that perform different image process
 
 ## Image Processing Scripts  
 
-#### 1. [`img_blur.py`](./img_blur.py)  
+### 1. [`img_blur.py`](./img_blur.py)  
 This script applies different blurring techniques (Gaussian, Median, Bilateral) to an image.  
 
 **OUTPUT:**  
