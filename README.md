@@ -51,5 +51,14 @@ Example: Running the blurring script
 ```sh
 python img_blur.py
 ```
+---
+# 🛠 Features
+✅ Image Filtering (Blur, Dilation, Edge Detection, Histogram Equalization)
+✅ Color Space Conversion (Grayscale, HSV)
+✅ Image Manipulation (Cropping, Resizing, Rotating)
+✅ Contour Detection & Morphological Transformations
+✅ Template Matching for Object Detection
+
+
 
 
