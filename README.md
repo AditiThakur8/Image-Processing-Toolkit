@@ -1,4 +1,4 @@
-# Image Processing Toolkit   
+# **Image Processing Toolkit**   
 
 ### A collection of image processing scripts using **OpenCV** for various transformations and operations.
 
@@ -7,7 +7,7 @@ This repository contains **Python scripts** that perform different image process
 
 ---
 
-# Image Processing Scripts  
+## Image Processing Scripts  
 
 ## 1. [`img_blur.py`](./img_blur.py)  
 This script applies different blurring techniques (Gaussian, Median, Bilateral) to an image.  
