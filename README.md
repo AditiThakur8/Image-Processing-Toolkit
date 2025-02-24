@@ -8,24 +8,61 @@ This repository contains **Python scripts** that perform different image process
 ---
 
 ## **📂 Folder Structure**  
+1. [`img_hist_eq.py`](./img_hist_eq.py)  
 
-| 📂 File Name | 📜 Description |
-|-------------|--------------|
-| [`img_blur.py`](./img_blur.py) | Applies different blurring techniques to an image |
-| [`img_concatenation.py`](./img_concatenation.py) | Combines multiple images into a single frame |
-| [`img_contouring.py`](./img_contouring.py) | Detects and outlines contours in an image |
-| [`img_cropping.py`](./img_cropping.py) | Crops a specific region from an image |
-| [`img_dilation.py`](./img_dilation.py) | Performs image dilation to enhance features |
-| [`img_edgedetection.py`](./img_edgedetection.py) | Detects edges using Canny, Sobel, and Laplacian methods 
-| [`img_grayscaleNB&Wimg.py`](./img_grayscaleNB&Wimg.py) | Converts images to grayscale and black & white |
-| [`img_hist_eq.py`](./img_hist_eq.py) | Performs histogram equalization to enhance contrast |
-| [`img_HSV.py`](./img_HSV.py) | Converts an image from RGB to HSV color space |
-| [`img_morphilogicalnoise_removal.py`](./img_morphilogicalnoise_removal.py) | Removes noise using morphological transformations |
-| [`img_multiple_img_opener.py`](./img_multiple_img_opener.py) | Opens and displays multiple images at once |
-| [`img_resizingimg.py`](./img_resizingimg.py) | Resizes an image to a given dimension |
-| [`img_rotating.py`](./img_rotating.py) | Rotates an image at different angles |
-| [`img_single_image_opener.py`](./img_single_image_opener.py) | Opens and displays a single image |
-| [`img_template.py`](./img_template.py) | Template matching for object detection in images |
+   This script performs histogram equalization to enhance contrast.  
+
+   **OUTPUT :** -->  
+   ![Histogram Equalization Output](./output_hist_eq.png)
+
+2. [`img_HSV.py`](./img_HSV.py)  
+
+   This script converts an image from RGB to HSV color space.  
+
+   **OUTPUT :** -->  
+   ![HSV Conversion Output](./output_HSV.png)
+
+3. [`img_morphilogicalnoise_removal.py`](./img_morphilogicalnoise_removal.py)  
+
+   This script removes noise using morphological transformations.  
+
+   **OUTPUT :** -->  
+   ![Morphological Noise Removal Output](./output_morphological_noise.png)
+
+4. [`img_multiple_img_opener.py`](./img_multiple_img_opener.py)  
+
+   This script opens and displays multiple images at once.  
+
+   **OUTPUT :** -->  
+   ![Multiple Image Opener Output](./output_multiple_img.png)
+
+5. [`img_resizingimg.py`](./img_resizingimg.py)  
+
+   This script resizes an image to a given dimension.  
+
+   **OUTPUT :** -->  
+   ![Resized Image Output](./output_resizing.png)
+
+6. [`img_rotating.py`](./img_rotating.py)  
+
+   This script rotates an image at different angles.  
+
+   **OUTPUT :** -->  
+   ![Rotated Image Output](./output_rotating.png)
+
+7. [`img_single_image_opener.py`](./img_single_image_opener.py)  
+
+   This script opens and displays a single image.  
+
+   **OUTPUT :** -->  
+   ![Single Image Opener Output](./output_single_image.png)
+
+8. [`img_template.py`](./img_template.py)  
+
+   This script performs template matching for object detection in images.  
+
+   **OUTPUT :** -->  
+   ![Template Matching Output](./output_template.png)
 
 ---
 
