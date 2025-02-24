@@ -52,29 +52,31 @@ Example: Running the blurring script
 python img_blur.py
 ```
 ---
-# 🛠 Features
-✅ Image Filtering (Blur, Dilation, Edge Detection, Histogram Equalization)
-✅ Color Space Conversion (Grayscale, HSV)
-✅ Image Manipulation (Cropping, Resizing, Rotating)
-✅ Contour Detection & Morphological Transformations
-✅ Template Matching for Object Detection
----
-# 📜 License
-This project is licensed under the MIT License. Feel free to use and modify it!
----
-# 🌟 Contributing
-Contributions are welcome! If you have improvements, feel free to:
-Fork the repository
-Create a new branch (feature-branch)
-Commit your changes
-Submit a pull request 
+## 🛠 Features  
+
+- ✅ **Image Filtering** (Blur, Dilation, Edge Detection, Histogram Equalization)  
+- ✅ **Color Space Conversion** (Grayscale, HSV)  
+- ✅ **Image Manipulation** (Cropping, Resizing, Rotating)  
+- ✅ **Contour Detection & Morphological Transformations**  
+- ✅ **Template Matching for Object Detection**  
+
 ---
 
-### ✅ **This README includes:**  
-✔ **Bold headings** for clarity  
-✔ **Emoji support** for visual appeal  
-✔ **Well-structured sections** with horizontal separators  
-✔ **Properly formatted code blocks** for readability  
+## 📜 License  
 
-This will **perfectly format** your README on GitHub with professional styling! 🚀 Let me know if you need more customization! 😊
+This project is licensed under the **MIT License**. Feel free to use and modify it!  
+
+---
+
+## 🌟 Contributing  
+
+Contributions are welcome! If you have improvements, feel free to:  
+
+1. **Fork the repository**  
+2. **Create a new branch** (`feature-branch`)  
+3. **Commit your changes**  
+4. **Submit a pull request** 🚀  
+
+
+
 
