@@ -58,7 +58,23 @@ python img_blur.py
 ✅ Image Manipulation (Cropping, Resizing, Rotating)
 ✅ Contour Detection & Morphological Transformations
 ✅ Template Matching for Object Detection
+---
+# 📜 License
+This project is licensed under the MIT License. Feel free to use and modify it!
+---
+# 🌟 Contributing
+Contributions are welcome! If you have improvements, feel free to:
+Fork the repository
+Create a new branch (feature-branch)
+Commit your changes
+Submit a pull request 
+---
 
+### ✅ **This README includes:**  
+✔ **Bold headings** for clarity  
+✔ **Emoji support** for visual appeal  
+✔ **Well-structured sections** with horizontal separators  
+✔ **Properly formatted code blocks** for readability  
 
-
+This will **perfectly format** your README on GitHub with professional styling! 🚀 Let me know if you need more customization! 😊
 
